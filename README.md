@@ -2,9 +2,8 @@
  <ul>
  <li> 🖥️ Currently studying Information Systems at Unilasalle RJ. </li>
  <li> ☕ Currently studying Java, C# and Cybersecurity. </li>
- <li> 📝 Linkedin: https://www.linkedin.com/in/rodrigolvergara/ </li>
  <li> 📧 E-mail: rodluizmv@hotmail.com </li>
- <li> 😸 Github: https://github.com/rdzvergara <a href="https://github.com/rdzvergara"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </li>
+ <li> <a href="https://github.com/rdzvergara"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  </a>  <a href="https://www.linkedin.com/in/rodrigolvergara/ "> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  </a> </li>
  </ul>
  
  <h1> 📊 My Github Stats. </h1>
