@@ -1,4 +1,4 @@
- <h1> Hi, I'm Rodrigo Luiz </h1>
+ <h1> 👋 Hi, I'm Rodrigo Luiz. </h1>
  <ul>
  <li> 🖥️ Currently studying Information Systems at Unilasalle RJ. </li>
  <li> ☕ Currently studying Java, C# and Cybersecurity. </li>
