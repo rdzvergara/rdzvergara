@@ -7,5 +7,5 @@
  <li> 😸 Github: https://github.com/rdzvergara </li>
  </ul>
  
- [![Rdzvergara's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdzvergara)](https://github.com/rdzvergara/github-readme-stats)
+ [![Rodrigo Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdzvergara)](https://github.com/rdzvergara/github-readme-stats)
  
