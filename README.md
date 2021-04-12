@@ -6,5 +6,6 @@
  <li> 📧 E-mail: rodluizmv@hotmail.com </li>
  <li> 😸 Github: https://github.com/rdzvergara </li>
  </ul>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdzvergara)](https://github.com/rdzvergara/github-readme-stats)
+ 
+ [![Rdzvergara's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdzvergara)](https://github.com/rdzvergara/github-readme-stats)
  
